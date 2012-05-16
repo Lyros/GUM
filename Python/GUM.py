@@ -1,3 +1,7 @@
+# GUM - Python
+# Adapted from Hoikas' and branan's scripts:
+# https://github.com/branan/moulbuild-scripts
+
 from __future__ import print_function
 from hashlib import md5
 from optparse import OptionParser # argparse sucks.
